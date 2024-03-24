@@ -1,5 +1,5 @@
 ### Get tasks
-GET http://localhost:3001/pg
+GET http://localhost:3001/
 
 ### Add new task
 POST http://localhost:3001/new HTTP/1.1
